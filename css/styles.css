@@ -158,6 +158,7 @@ header {
     text-align: center;
 
     margin-bottom: 48px;
+    width: 496px;
 }
 
 .hero button {
@@ -283,6 +284,7 @@ footer .logo-link {
 footer p { 
     line-height: 1.5;
     letter-spacing: 0.02em;
+    width: 264px;
 
     margin-top: 16px;
 }
